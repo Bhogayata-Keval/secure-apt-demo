@@ -1,0 +1,13 @@
+Package: hello-world
+Version: 0.0.1
+Architecture: amd64
+Maintainer: example <example@example.com>
+Depends: libc6
+Filename: pool/main/melt-agent-host_0.0.1-1_amd64.deb
+Size: 1735920
+MD5sum: 7f25103a80c7074cecd7fc19bd70107c
+SHA1: c5b0d226ee3ccd4a4fa09c03a6428c95e99cb8a6
+SHA256: b85bcf859076a3fc7ced3c4e28fb58539e2f3b0d21fe26b673940566b7739e32
+Homepage: http://example.com
+Description: A program that prints hello
+
